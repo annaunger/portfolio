@@ -1,9 +1,9 @@
 # Welcome to my Portfolio
 _under construction_
 
-I've added a visual effect *Animating Link Underlines*, that I found at [Tobias Bjerrome Ahlin's](http://tobiasahlin.com/) [blog](http://tobiasahlin.com/blog/css-trick-animating-link-underlines/).
+I've added a visual effect **_Animating Link Underlines-**, that I found at [Tobias Bjerrome Ahlin's](http://tobiasahlin.com/) [blog](http://tobiasahlin.com/blog/css-trick-animating-link-underlines/).
 
-I implemented an image shuffler in the _words about me_ section, order of images will change on refresh, or re-entering the page.
+I implemented an image shuffler in the **_words about me_** section, order of images will change on refresh, or re-entering the page.
 
 Please visit the live version of my Portfolio [here](https://annaunger.github.io/portfolio/).
 
