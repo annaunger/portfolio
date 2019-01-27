@@ -9,6 +9,9 @@ The website is still under construction, and only visitable by browser with a wi
 
 * I implemented an image shuffler in the **_words about me_** section, order of images will change on refresh, or re-entering the page. Link of resource will be added soon.
 
+* I built a version of d3.js [DashBoard](http://bl.ocks.org/NPashaP/96447623ef4d342ee09b) to visualize my skills by theoretical, practical and autonomous variables.
+
+
 Please visit the live version of my Portfolio by a device wider than 1024 pixels, [here](https://annaunger.github.io/portfolio/).
 
 
