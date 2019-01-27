@@ -1,7 +1,7 @@
 ## Welcome to my Portfolio
 _under construction_
 
-I've added a visual effect, that I found at [Tobias Bjerrome Ahlin's](http://tobiasahlin.com/) [blog](http://tobiasahlin.com/blog/css-trick-animating-link-underlines/).
+I've added a visual effect *Animating Link Underlines*, that I found at [Tobias Bjerrome Ahlin's](http://tobiasahlin.com/) [blog](http://tobiasahlin.com/blog/css-trick-animating-link-underlines/).
 
 
 
