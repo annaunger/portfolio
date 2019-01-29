@@ -410,6 +410,10 @@ tbody {
   width: 100%
 }
 
+.message {
+	display: none;
+}
+
 
 
 .bar {
