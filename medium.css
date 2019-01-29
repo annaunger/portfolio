@@ -21,7 +21,7 @@
 		padding-right: 25px;
 	}
 
-	.containermob, #projectsmob, .stackedbar {
+	.containermob, #projectsmob, .stackedbar, .message {
 		display: none;
 	}
 	
