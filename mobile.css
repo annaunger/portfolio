@@ -1,5 +1,9 @@
-@media screen and (max-width: 520px) {
+@media screen and (max-width: 1024px) {
 	
+	.body {
+		display: none;
+	}
+	/*
 	.center {
 		width: 100%;
 	}
@@ -10,6 +14,7 @@
 	.ingress, #dashboard, #dashboard1, #subtools, .container2, #projectspc {
 		display: none;
 	}
+	*/
 
 	
 }
