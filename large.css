@@ -22,7 +22,7 @@
 		
 	}
 
-	.containermob, #projectsmob, .stackedbar {
+	.containermob, #projectsmob, .stackedbar, .message {
 		display: none;
 	}
 	
