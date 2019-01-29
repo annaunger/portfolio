@@ -1,4 +1,5 @@
-@media screen and (min-width: 521px) and (max-width: 1150px){
+/* @media screen and (min-width: 521px) and (max-width: 1150px)*/
+@media screen and (min-width: 1025px){
 	.center {
 		width: 90%;
 	}
